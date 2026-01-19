@@ -1,0 +1,41 @@
+order_id,order_date,customer_name,region,category,sub_category,sales,profit
+SS-001,02-01-2019,Aarav Shah,West,Electronics,Laptop,4200,900
+SS-002,03-01-2019,Riya Mehta,East,Kitchen,Mixer Grinder,1800,250
+SS-003,05-01-2019,Kabir Jain,South,Furniture,Office Chair,3200,600
+SS-004,06-01-2019,Ananya Roy,Central,Clothing,Jackets,2200,300
+SS-005,07-01-2019,Rohan Verma,West,Storage,Plastic Boxes,900,120
+SS-006,08-01-2019,Mehul Patel,East,Decor,Wall Clock,1500,200
+SS-007,09-01-2019,Sneha Kapoor,South,Electronics,Smartphone,2800,500
+SS-008,10-01-2019,Arjun Malhotra,Central,Kitchen,Cookware Set,2600,450
+SS-009,12-01-2019,Neha Singh,West,Furniture,Dining Table,5200,1100
+SS-010,13-01-2019,Aditya Rao,East,Clothing,T-Shirts,1300,180
+SS-011,14-01-2019,Pooja Nair,South,Storage,Metal Racks,4100,700
+SS-012,15-01-2019,Rahul Khanna,Central,Decor,Table Lamp,1700,220
+SS-013,16-01-2019,Simran Kaur,West,Electronics,Headphones,1200,260
+SS-014,17-01-2019,Vikram Iyer,East,Kitchen,Toaster,1400,190
+SS-015,18-01-2019,Ishita Ghosh,South,Furniture,Bookshelf,3600,650
+SS-016,19-01-2019,Amit Agarwal,Central,Clothing,Jeans,2400,420
+SS-017,20-01-2019,Nisha Bansal,West,Storage,File Organizers,1100,150
+SS-018,21-01-2019,Karan Sood,East,Decor,Photo Frames,900,130
+SS-019,22-01-2019,Priya Kulkarni,South,Electronics,Tablet,3100,560
+SS-020,23-01-2019,Manish Arora,Central,Kitchen,Gas Stove,4800,900
+SS-021,01-02-2019,Aarav Shah,West,Furniture,Sofa,7200,1500
+SS-022,02-02-2019,Riya Mehta,East,Clothing,Dresses,3400,600
+SS-023,03-02-2019,Kabir Jain,South,Storage,Drawer Units,2900,480
+SS-024,04-02-2019,Ananya Roy,Central,Decor,Mirrors,2600,420
+SS-025,05-02-2019,Rohan Verma,West,Electronics,Smart Watch,2200,350
+SS-026,06-02-2019,Mehul Patel,East,Kitchen,Pressure Cooker,2000,300
+SS-027,07-02-2019,Sneha Kapoor,South,Furniture,Bed,8500,1700
+SS-028,08-02-2019,Arjun Malhotra,Central,Clothing,Sweatshirts,2100,330
+SS-029,09-02-2019,Neha Singh,West,Storage,Cabinets,4600,800
+SS-030,10-02-2019,Aditya Rao,East,Decor,Vases,1200,180
+SS-031,11-02-2019,Pooja Nair,South,Electronics,Camera,5300,1000
+SS-032,12-02-2019,Rahul Khanna,Central,Kitchen,Electric Kettle,1600,240
+SS-033,13-02-2019,Simran Kaur,West,Furniture,Study Table,4100,750
+SS-034,14-02-2019,Vikram Iyer,East,Clothing,Formal Shirts,1900,280
+SS-035,15-02-2019,Ishita Ghosh,South,Storage,Tool Boxes,2300,360
+SS-036,16-02-2019,Amit Agarwal,Central,Decor,Curtains,2800,420
+SS-037,17-02-2019,Nisha Bansal,West,Electronics,Printer,3400,650
+SS-038,18-02-2019,Karan Sood,East,Kitchen,Blender,1500,210
+SS-039,19-02-2019,Priya Kulkarni,South,Furniture,Recliner,6100,1200
+SS-040,20-02-2019,Manish Arora,Central,Clothing,Track Pants,1700,260
