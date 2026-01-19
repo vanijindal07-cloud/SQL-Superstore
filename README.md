@@ -26,6 +26,7 @@ To practice SQL basics including filtering, sorting, aggregation, grouping, and 
 
 ## Files Included
 - queries_task3.sql → Contains all SQL queries
+  
 -sales_summary.csv → Exported query results
 - README.md → Task explanation
 
